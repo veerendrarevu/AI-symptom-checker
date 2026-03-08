@@ -23,7 +23,7 @@ Make sure you have the following installed on your machine:
 ## Cloning the repository
 
 ```bash
-git clone https://github.com/<your-username>/ai-symptom-checker.git
+git clone https://github.com/veerendrarevu/AI-symptom-checker.git
 cd ai-symptom-checker
 ```
 
